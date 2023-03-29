@@ -1,7 +1,7 @@
 import re
 import PyPDF2
 
-pdf_folder = 'C:\\Users\\ferna\\Insync\\fernando.orionx@gmail.com\\Google Drive\\academia\\producoes\\00-desenvolvimento\\2023-redessociais_brapci\\pdf\\'
+pdf_folder = 'preencher com o caminho da pasta com os documentos PDF no computador'
 
 pdf_files = range(1, 183)
 
